@@ -6,10 +6,6 @@ files. It extracts essential details from network packets, including IP addresse
 calculates Round-Trip Times (RTTs) for intermediate nodes. This tool is particularly useful for network diagnostics 
 and research.
 
-## Author Information
-- **Name:** M Shaafi Jahangir
-- **ID:** V00960196
-
 ## Requirements
 - Python 3.x
 - PCAP file for analysis
