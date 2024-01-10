@@ -1,6 +1,3 @@
-# M Shaafi Jahangir
-# ID: V00960196
-
 import sys
 import struct
 
